@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 flask = "*"
 python-dotenv = "*"
+tgcrypto = "1.2.5"
 
 [dev-packages]
 
